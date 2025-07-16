@@ -1,4 +1,6 @@
-
+##Hi there
+---> I am currently working on Machine Learning
+--->I am looking to proficient myself in DevOps
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/kumkum-kaushik-73a678244) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kumkumkaushik82@gmail.com) 
 
