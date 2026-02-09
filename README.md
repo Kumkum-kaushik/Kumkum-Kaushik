@@ -32,11 +32,10 @@ with a strong interest in **Explainable AI (XAI)** and **AI systems for social i
 
 ## 🧠 What I Do
 
-- 🤖 Build **Machine Learning & Deep Learning models**
-- 📊 Analyze data and create insights using **Python & Power BI**
+- 🤖 Build **ETL Pipelines ,Machine Learning, Deep Learning models**
+- 📊 Analyze data and create insights using **Python , Pyspark, Power BI**
 - 🧪 Work on **research-focused AI projects**
-- 🏗️ Develop **end-to-end ML pipelines**
-- 🔍 Apply **Explainable AI (XAI)** for model transparency
+- 🏗️ Develop **end-to-end ETL pipelines**
 - ☁️ Explore **cloud-based ML & system design concepts**
 - 🌏 Preparing for **AI roles in Japan**
 
@@ -85,7 +84,3 @@ I’m open to:
 Feel free to connect or reach out 🙂
 
 ---
-
-## JP 日本語版
-
-（必要なら、あなた用に自然な日本語READMEも作るよ）
