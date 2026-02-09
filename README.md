@@ -1,10 +1,3 @@
-# 🌐 Language / 言語
-
-[🇬🇧 English](#gb-english-version) | [🇯🇵 日本語](#jp-日本語版)
-
----
-
-## GB English Version
 
 👋 **Hi, I'm Kumkum Kaushik**
 
@@ -31,9 +24,9 @@ with a strong interest in **Explainable AI (XAI)** and **AI systems for social i
 | **Frameworks** | PyTorch, TensorFlow |
 | **Data Tools** | Power BI, Excel |
 | **Databases** | MySQL |
-| **Email** | your-email@gmail.com |
-| **GitHub** | https://github.com/your-username |
-| **LinkedIn** | https://linkedin.com/in/your-link |
+| **Email** | kumkumkaushik82@gmail.com |
+| **GitHub** | [https://github.com/ ](https://github.com/Kumkum-kaushik)|
+| **LinkedIn** |[ https://linkedin.com/in/your-link](https://www.linkedin.com/in/kumkum-kaushik-73a678244/) |
 
 ---
 
