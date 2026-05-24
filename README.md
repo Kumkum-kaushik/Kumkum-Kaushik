@@ -14,10 +14,10 @@ with a strong interest in **Explainable AI (XAI)** and **AI systems for social i
 | Field | Detail |
 |------|--------|
 | **Name** | Kumkum Kaushik |
-| **Nationality** | Indian 🇮🇳 |
+| **Nationality** | Indian |
 | **Current Location** | India |
 | **Education** | B.Tech – Information Technology (AIML) |
-| **Profession** | AI / ML Engineer • Data Analyst, Data Engineer|
+| **Roles** | AI / ML Engineer,Data Analyst, Data Engineer|
 | **Languages** | English, Hindi |
 | **Programming** | Python, C, C++, Java, SQL |
 | **ML/DL** | Machine Learning, Deep Learning |
